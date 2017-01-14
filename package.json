@@ -1,0 +1,24 @@
+{
+  "name": "sfcookies",
+  "version": "1.0.0",
+  "description": "Giving react projects access to browser cookies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15Dkatz/sfcookies.git"
+  },
+  "keywords": [
+    "Cookies",
+    "React",
+    "ReactJS"
+  ],
+  "author": "David Katz <15Dkatz@shcp.edu> (http://davidtkatz.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15Dkatz/sfcookies/issues"
+  },
+  "homepage": "https://github.com/15Dkatz/sfcookies#readme"
+}
