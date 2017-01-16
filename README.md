@@ -11,5 +11,6 @@ delete_cookie(name) - removes the cookie from the browser history.
 
 #usage
 1) Run `npm install --save sfcookies`
+
 2) Import these methods in es6 like so:
 `import { bake_cookie, read_cookie, delete_cookie } from 'sfcookies'`
