@@ -15,7 +15,7 @@ import { bake_cookie, read_cookie, delete_cookie } from 'sfcookies'
 
 ## Usage
 
-### `bake_cookie(name, string, date)`
+### `bake_cookie(name, value, date)`
 
 Bake Cookie allows you to pass a name and a string value to store a cookie on the user's browser. It maps the name to the string.
 
