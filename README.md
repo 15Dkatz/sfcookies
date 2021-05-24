@@ -21,8 +21,8 @@ Bake Cookie allows you to pass a name and a string value to store a cookie on th
 
 ### `read_cookie(name)`
 
-Returns the value of your baked cookie.
+Read Cookie takes the name of your baked cookie and returns the value of it.
 
 ### `delete_cookie(name)`
 
-Removes the cookie from your browser history.
+Delete Cookie takes a cookie's name and deletes it from the browser history.
